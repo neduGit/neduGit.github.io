@@ -1,0 +1,9 @@
+title: Chinedu Okeke
+description: Data Analytics Portfolio
+theme: minima
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
