@@ -1,4 +1,4 @@
-## Projects: 
+## Projects 
 #### • NBA All-Star Predictor: 
 Using a scraped data from basketball-reference.com to create machine learning models to predict whether an NBA player makes an all-star nomination based on seasonal statistical performances. The data used is from the 1980-81 season to the 2023-24 season. The model primarily uses to models, decision tree and multi-layer perceptron, to make classify whether a given player profile will be an All-Star.
 ##### [View Repository](https://github.com/neduGit/NBA_All-Star_Predictor)
