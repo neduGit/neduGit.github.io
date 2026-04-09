@@ -5,5 +5,5 @@ theme: minima
 header_pages:
   - index.md
   - projects.md
-  - about.md
+  - blog.md
   - contact.md
