@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 ## Projects 
 
 <div class="project-card">
