@@ -1,10 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Projects"
 ---
-
-## Projects 
-
 <div class="project-card">
 
 <h4>NBA All-Star Predictor</h4>
