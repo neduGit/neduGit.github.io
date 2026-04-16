@@ -1,0 +1,51 @@
+---
+---
+
+@import "minima";
+
+/* Page width */
+.wrapper {
+  max-width: 1100px;
+}
+
+/* Titles */
+h1, h2, h3 {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+/* Project cards */
+.project-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 25px;
+  transition: all 0.2s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  transform: translateY(-3px);
+}
+
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 8px;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.button:hover {
+  background-color: #005fa3;
+}
+
+/* Images */
+.project-img {
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 10px;
+}
