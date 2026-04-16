@@ -1,6 +1,6 @@
 ---
-title: Projects
-layout: Meet Chinedu Okeke
+layout: page
+title: "Meet Chinedu Okeke"
 ---
 
 ### Data Scientist | Machine Learning | Sports Enthusiast
