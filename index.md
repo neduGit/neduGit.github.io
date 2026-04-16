@@ -1,1 +1,12 @@
+---
+title: Projects
+layout: Meet Chinedu Okeke
+---
+
+### Data Scientist | Machine Learning | Data Sciencist
+
+### Syracuse
 These past two years in the Applied Data Science program, here at the iSchool in Syracuse University, have done a lot to advance my ability as a Data Scientist. The program has focused on equipping students with the skills necessary to work in various industries. It has not only given us the technical skills to manipulate data and find insights, but also instills students with the decison making prowess and commiunication skills to articulate key findings. Through the many classes and coursework, students were given the opportunity to display these skills in a controlled environment, meant to mimic that of the workspace. This portfolio includes some of those projects that I have completed throughout the last few years using Data. 
+
+### Sports
+I have a strong affinity for various sports. I have worked with two Collegiate Basketball teams in Davidson College and Syracuse University, while also running Track and Field as an undergraduate. 
